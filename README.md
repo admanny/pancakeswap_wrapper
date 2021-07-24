@@ -1,4 +1,4 @@
-# Pancakeswap
+# Pancakeswap Wrapper
 A basic wrapper around a handful of core pancakeswap contract functions.
 
 ## Set Up
